@@ -1,0 +1,4 @@
+MySQLdb==1.2.5
+email
+smtplib
+paramiko
